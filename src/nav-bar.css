@@ -1,0 +1,11 @@
+.my-navbar-brand:hover {
+  border-left: 2px solid blue;
+  border-right: 2px solid blue;
+}
+
+.navbar-brand-image {
+  height: 30px;
+  width: 30px;
+  padding: 1.2rem;
+  padding-right: 0rem;
+}

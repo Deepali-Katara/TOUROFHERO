@@ -1,0 +1,12 @@
+.my-custom-button {
+  text-decoration: none !important;
+  width: 300px;
+  border: none;
+  background-color: white;
+  text-align: center;
+}
+
+.style {
+  display: flex;
+  justify-content: space-between;
+}
